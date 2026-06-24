@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734640866 source:c:\users\nejar medhat\onedrive\desktop\1st semster\ic\12th\airline reservation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
